@@ -1,4 +1,4 @@
-#📚 Self-Paced Learning with Knowledge Distillation for Improved Classification
+## 📚 Self-Paced Learning with Knowledge Distillation for Improved Classification
 
 This project implements a novel training pipeline that combines **Self-Paced Learning (SPL)** and **Knowledge Distillation (KD)** to improve classification performance by identifying and utilizing *easy* and *hard* samples during training.
 
@@ -29,11 +29,6 @@ cd self-paced-distillation-classifier
 ```bash
 python -m venv venv
 source venv/bin/activate   # On Windows: venv\Scripts\activate
-```
-
-3. Install dependencies:
-```bash
-pip install -r requirements.txt
 ```
 
 ---
